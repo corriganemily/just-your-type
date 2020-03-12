@@ -1485,7 +1485,7 @@ legend {
 
   .pico {
     font-size: .1459rem;
-    line-height: rem;
+    line-height: .375rem;
   }
 
   ul,
@@ -1765,7 +1765,7 @@ legend {
   }
 
   .i-2 {
-    height: 12pt;
+    height: 12rem;
     width: 3rem;
   }
 
