@@ -1,8 +1,17 @@
-.MADNESS {
-  margin: 3rem;
+.madness {
+  margin: 2rem;
   color: #ff4b2b;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 main {
   background-color: #defffb;
+}
+
+p {
+  font-family: "Playfair Display", serif;
+}
+
+h1 {
+  color: #defffb;
 }
